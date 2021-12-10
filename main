@@ -7,11 +7,11 @@ const int g_kArraySize = 8;
 //lay id bang tgian thuc (dong code 245-262)
 //phan doanh thu e co ngien cuu nhung bi loi, nen em lam tinh tong tien cua 1 nguoi neu mua nhieu loai ve (dong code 682-741)
 //mong cac anh thong cam, em cam on!!
-//
-
+//Dang Dang Trinh
+//MSSV: 6151071026
+//Nhom thuc hanh 32
 //tai khoan : username
 //mat khau : password
-
 using namespace std;
 
 
